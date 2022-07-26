@@ -1,4 +1,4 @@
-# My-Online-Store
+# My-Online-Store-Asp.Net-Core
  Online store site that I made using asp.net core and boostrap and msSql.
 login page, 
 admin login, 
