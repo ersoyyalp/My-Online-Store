@@ -7,5 +7,5 @@ adding/removing/updating categories,
 adding/removing/updating products, 
 categorizing products, product detail, , 
 adding/removing to cart, 
-total cart amount, 
-purchasing pagePage Not Found: Error Code: 404 page
+total cart amount ve
+purchasing page "Page Not Found: Error Code: 404"
